@@ -1,7 +1,7 @@
 #Student's Assignment 1: Basic Matrix Operations
-Create two 3×3 matrices with random integers in Python.
-Perform addition, subtraction, and multiplication operations on these matrices.
-Compute the determinant, inverse, and rank of one of the matrices.
+-Create two 3×3 matrices with random integers in Python.
+-Perform addition, subtraction, and multiplication operations on these matrices.
+-Compute the determinant, inverse, and rank of one of the matrices.
 
 #Student's Assignment 2: Matrix Plotting and Visualization
 Generate and Plot Two Random Vectors:
